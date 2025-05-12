@@ -7,8 +7,11 @@ The project analyses cases, deaths, recoveries, and vaccinations across countrie
 ## Project Objectives
 
 Analyze time trends (cases, deaths, vaccinations)
+
 Compare metrics across countries/regions
+
 Visualize trends with charts and maps
+
 Communicate findings in a Jupyter Notebook or PDF report
 
 ## Setup/View
