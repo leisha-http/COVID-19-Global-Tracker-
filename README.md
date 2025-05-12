@@ -10,10 +10,3 @@ Based on the exploratory data analysis of COVID-19 data for South Africa, the Un
 3.  **Distinct Infection Waves:** The daily new cases plot highlights multiple waves of COVID-19 infections in each country. The timing and intensity of these waves appear to differ, suggesting that the pandemic unfolded with its own dynamics in each context. For instance, [**mention a specific observation about the timing or height of a wave in one of the countries**].
 
 4.  **Evolution of Death Rate:** The calculated death rate (total deaths / total cases) shows how the proportion of reported cases resulting in death evolved over time in each country. [**Describe any notable trends, such as a decrease in the death rate over time or significant differences in the average death rate between the countries.**]
-
-### Anomalies and Interesting Patterns
-
-* [**Describe any specific anomalies you observed in the plots, e.g., "A sharp, isolated spike in daily deaths in India around [Date]" or "A noticeable plateau in the cumulative vaccination curve for South Africa during [Period]"**].
-* [**Highlight any other interesting patterns, e.g., "The daily new cases in all three countries seemed to peak around similar times, suggesting a globally synchronized wave, albeit with different magnitudes."**]
-
-Further analysis could delve into the factors contributing to these differences and patterns, such as public health measures, demographics, and healthcare system capacity.
